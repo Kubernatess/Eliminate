@@ -1,4 +1,0 @@
-class MapController {
-	public constructor() {
-	}
-}
