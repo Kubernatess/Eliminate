@@ -1,0 +1,295 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,DragonBones_png,平台接入_png,Lakeshore_png,Egret-iOS-Support_png,Egret-Android-Support_png,EgretEngine_png,EgretFeather_png,EgretInspector_png,EgretNative_png,EgretPro_png,EgretUIEditor_png,EgretWing_png,Egret扩展库_png,EgretiaServer_png,Matchvs游戏云_png,ResDepot_png,TextureMerger_png,background_png,微信图片_20200131125954_png,微信图片_20200131130030_png,微信图片_20200131162701_png,0fea453a-0653-4e8f-ad95-6b2cdd450e59_scaled_jpg,level_json,DarkTurquoise _png,DeepSkyBlue _png,cross_png,single_png,same_png,line_png,column_png,方正大黑简体_fnt",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "checkbox_select_disabled_png",
+			"type": "image",
+			"url": "assets/CheckBox/checkbox_select_disabled.png"
+		},
+		{
+			"name": "checkbox_select_down_png",
+			"type": "image",
+			"url": "assets/CheckBox/checkbox_select_down.png"
+		},
+		{
+			"name": "checkbox_select_up_png",
+			"type": "image",
+			"url": "assets/CheckBox/checkbox_select_up.png"
+		},
+		{
+			"name": "checkbox_unselect_png",
+			"type": "image",
+			"url": "assets/CheckBox/checkbox_unselect.png"
+		},
+		{
+			"name": "selected_png",
+			"type": "image",
+			"url": "assets/ItemRenderer/selected.png"
+		},
+		{
+			"name": "border_png",
+			"type": "image",
+			"url": "assets/Panel/border.png"
+		},
+		{
+			"name": "header_png",
+			"type": "image",
+			"url": "assets/Panel/header.png"
+		},
+		{
+			"name": "radiobutton_select_disabled_png",
+			"type": "image",
+			"url": "assets/RadioButton/radiobutton_select_disabled.png"
+		},
+		{
+			"name": "radiobutton_select_down_png",
+			"type": "image",
+			"url": "assets/RadioButton/radiobutton_select_down.png"
+		},
+		{
+			"name": "radiobutton_select_up_png",
+			"type": "image",
+			"url": "assets/RadioButton/radiobutton_select_up.png"
+		},
+		{
+			"name": "radiobutton_unselect_png",
+			"type": "image",
+			"url": "assets/RadioButton/radiobutton_unselect.png"
+		},
+		{
+			"name": "roundthumb_png",
+			"type": "image",
+			"url": "assets/ScrollBar/roundthumb.png"
+		},
+		{
+			"name": "thumb_png",
+			"type": "image",
+			"url": "assets/Slider/thumb.png"
+		},
+		{
+			"name": "track_png",
+			"type": "image",
+			"url": "assets/Slider/track.png"
+		},
+		{
+			"name": "tracklight_png",
+			"type": "image",
+			"url": "assets/Slider/tracklight.png"
+		},
+		{
+			"name": "handle_png",
+			"type": "image",
+			"url": "assets/ToggleSwitch/handle.png"
+		},
+		{
+			"name": "off_png",
+			"type": "image",
+			"url": "assets/ToggleSwitch/off.png"
+		},
+		{
+			"name": "on_png",
+			"type": "image",
+			"url": "assets/ToggleSwitch/on.png"
+		},
+		{
+			"name": "button_down_png",
+			"type": "image",
+			"url": "assets/Button/button_down.png"
+		},
+		{
+			"name": "button_up_png",
+			"type": "image",
+			"url": "assets/Button/button_up.png"
+		},
+		{
+			"name": "thumb_pb_png",
+			"type": "image",
+			"url": "assets/ProgressBar/thumb_pb.png"
+		},
+		{
+			"name": "track_pb_png",
+			"type": "image",
+			"url": "assets/ProgressBar/track_pb.png"
+		},
+		{
+			"name": "track_sb_png",
+			"type": "image",
+			"url": "assets/ScrollBar/track_sb.png"
+		},
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "DragonBones_png",
+			"type": "image",
+			"url": "res/DragonBones.png"
+		},
+		{
+			"name": "平台接入_png",
+			"type": "image",
+			"url": "res/平台接入.png"
+		},
+		{
+			"name": "Lakeshore_png",
+			"type": "image",
+			"url": "res/Lakeshore.png"
+		},
+		{
+			"name": "Egret-iOS-Support_png",
+			"type": "image",
+			"url": "res/Egret-iOS-Support.png"
+		},
+		{
+			"name": "Egret-Android-Support_png",
+			"type": "image",
+			"url": "res/Egret-Android-Support.png"
+		},
+		{
+			"name": "EgretEngine_png",
+			"type": "image",
+			"url": "res/EgretEngine.png"
+		},
+		{
+			"name": "EgretFeather_png",
+			"type": "image",
+			"url": "res/EgretFeather.png"
+		},
+		{
+			"name": "EgretInspector_png",
+			"type": "image",
+			"url": "res/EgretInspector.png"
+		},
+		{
+			"name": "EgretNative_png",
+			"type": "image",
+			"url": "res/EgretNative.png"
+		},
+		{
+			"name": "EgretPro_png",
+			"type": "image",
+			"url": "res/EgretPro.png"
+		},
+		{
+			"name": "EgretUIEditor_png",
+			"type": "image",
+			"url": "res/EgretUIEditor.png"
+		},
+		{
+			"name": "EgretWing_png",
+			"type": "image",
+			"url": "res/EgretWing.png"
+		},
+		{
+			"name": "Egret扩展库_png",
+			"type": "image",
+			"url": "res/Egret扩展库.png"
+		},
+		{
+			"name": "EgretiaServer_png",
+			"type": "image",
+			"url": "res/EgretiaServer.png"
+		},
+		{
+			"name": "Matchvs游戏云_png",
+			"type": "image",
+			"url": "res/Matchvs游戏云.png"
+		},
+		{
+			"name": "ResDepot_png",
+			"type": "image",
+			"url": "res/ResDepot.png"
+		},
+		{
+			"name": "TextureMerger_png",
+			"type": "image",
+			"url": "res/TextureMerger.png"
+		},
+		{
+			"name": "background_png",
+			"type": "image",
+			"url": "res/background.png"
+		},
+		{
+			"name": "微信图片_20200131125954_png",
+			"type": "image",
+			"url": "res/微信图片_20200131125954.png"
+		},
+		{
+			"name": "微信图片_20200131130030_png",
+			"type": "image",
+			"url": "res/微信图片_20200131130030.png"
+		},
+		{
+			"name": "微信图片_20200131162701_png",
+			"type": "image",
+			"url": "res/微信图片_20200131162701.png"
+		},
+		{
+			"name": "0fea453a-0653-4e8f-ad95-6b2cdd450e59_scaled_jpg",
+			"type": "image",
+			"url": "res/0fea453a-0653-4e8f-ad95-6b2cdd450e59_scaled.jpg"
+		},
+		{
+			"name": "level_json",
+			"type": "json",
+			"url": "res/level.json"
+		},
+		{
+			"name": "DarkTurquoise _png",
+			"type": "image",
+			"url": "res/DarkTurquoise .png"
+		},
+		{
+			"name": "DeepSkyBlue _png",
+			"type": "image",
+			"url": "res/DeepSkyBlue .png"
+		},
+		{
+			"name": "cross_png",
+			"type": "image",
+			"url": "res/cross.png"
+		},
+		{
+			"name": "single_png",
+			"type": "image",
+			"url": "res/single.png"
+		},
+		{
+			"name": "same_png",
+			"type": "image",
+			"url": "res/same.png"
+		},
+		{
+			"name": "line_png",
+			"type": "image",
+			"url": "res/line.png"
+		},
+		{
+			"name": "column_png",
+			"type": "image",
+			"url": "res/column.png"
+		},
+		{
+			"name": "方正大黑简体_fnt",
+			"type": "font",
+			"url": "res/方正大黑简体.fnt"
+		}
+	]
+}
