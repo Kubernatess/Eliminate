@@ -1,0 +1,150 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,column_png,cross_png,DarkTurquoise_png,DeepSkyBlue_png,DragonBones_png,EgretEngine_png,EgretFeather_png,EgretNative_png,EgretWing_png,line_png,ResDepot_png,same_png,single_png,background_png,EgretiaServer_png,EgretInspector_png,EgretPro_png,EgretUIEditor_png,Lakeshore_png,TextureMerger_png,Egret-Android-Support_png,Egret-iOS-Support_png,DodgerBlue_png,LimeGreen_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "res/column.png",
+			"type": "image",
+			"name": "column_png"
+		},
+		{
+			"url": "res/cross.png",
+			"type": "image",
+			"name": "cross_png"
+		},
+		{
+			"url": "res/DarkTurquoise.png",
+			"type": "image",
+			"name": "DarkTurquoise_png"
+		},
+		{
+			"url": "res/DeepSkyBlue.png",
+			"type": "image",
+			"name": "DeepSkyBlue_png"
+		},
+		{
+			"url": "res/DragonBones.png",
+			"type": "image",
+			"name": "DragonBones_png"
+		},
+		{
+			"url": "res/EgretEngine.png",
+			"type": "image",
+			"name": "EgretEngine_png"
+		},
+		{
+			"url": "res/EgretFeather.png",
+			"type": "image",
+			"name": "EgretFeather_png"
+		},
+		{
+			"url": "res/EgretNative.png",
+			"type": "image",
+			"name": "EgretNative_png"
+		},
+		{
+			"url": "res/EgretWing.png",
+			"type": "image",
+			"name": "EgretWing_png"
+		},
+		{
+			"url": "res/line.png",
+			"type": "image",
+			"name": "line_png"
+		},
+		{
+			"url": "res/ResDepot.png",
+			"type": "image",
+			"name": "ResDepot_png"
+		},
+		{
+			"url": "res/same.png",
+			"type": "image",
+			"name": "same_png"
+		},
+		{
+			"url": "res/single.png",
+			"type": "image",
+			"name": "single_png"
+		},
+		{
+			"url": "res/background.png",
+			"type": "image",
+			"name": "background_png"
+		},
+		{
+			"url": "res/EgretiaServer.png",
+			"type": "image",
+			"name": "EgretiaServer_png"
+		},
+		{
+			"url": "res/EgretInspector.png",
+			"type": "image",
+			"name": "EgretInspector_png"
+		},
+		{
+			"url": "res/EgretPro.png",
+			"type": "image",
+			"name": "EgretPro_png"
+		},
+		{
+			"url": "res/EgretUIEditor.png",
+			"type": "image",
+			"name": "EgretUIEditor_png"
+		},
+		{
+			"url": "res/Lakeshore.png",
+			"type": "image",
+			"name": "Lakeshore_png"
+		},
+		{
+			"url": "res/TextureMerger.png",
+			"type": "image",
+			"name": "TextureMerger_png"
+		},
+		{
+			"url": "res/Egret-Android-Support.png",
+			"type": "image",
+			"name": "Egret-Android-Support_png"
+		},
+		{
+			"url": "res/Egret-iOS-Support.png",
+			"type": "image",
+			"name": "Egret-iOS-Support_png"
+		},
+		{
+			"url": "res/DodgerBlue.png",
+			"type": "image",
+			"name": "DodgerBlue_png"
+		},
+		{
+			"url": "res/LimeGreen.png",
+			"type": "image",
+			"name": "LimeGreen_png"
+		},
+		{
+			"url": "others/微信图片_20200327215417.png",
+			"type": "image",
+			"name": "微信图片_20200327215417_png"
+		}
+	]
+}
