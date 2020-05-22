@@ -1,0 +1,19 @@
+命名的时候还是要以顺眼、辨识度为准,如果有些属性确实看着不顺眼,可以给它开头大写,比如GameElements和gameElements哪个顺眼呢? 还有MapController.parse()和MapController.parseMapData()哪个更顺眼一些? 还有stepNum和stepNumber哪个顺眼?
+
+命名的时候可以用缩写,比如FileInputStream,缩写为fis,以及fos,就不用很长很长的命名
+
+属性名可以结合类名从而减少命名长度,比如GameElement.elements和RequiredElement.elements,就不用GameElement.gameElements和RequiredElement.requiredElements这么长的属性名
+
+属性命名组合: 形容词+名词   名词+名词
+
+方法命名组合:  动词  动词+名词  动词+介词+名词
+
+如果是一些内部方法的一些细节,可以命名时可以简写,比如ele
+
+参照官方示例给的命名,比如Event命名为evt,onAddToStage(),数据库字段命名course_id,servlet命名uploadServlet
+
+类名一般使用驼峰命名+开头大写,而属性和方法使用驼峰命名+开头小写
+
+平时多积累些经验,一些元素位置怎么命名,比如header、footer、nav、level
+
+stageWidth简写stageW,同样,前提是简写以后要有辨识度
